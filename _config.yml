@@ -20,9 +20,9 @@ url : https://joshua001.github.io # The base hostname & protocol for your site e
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name : "Mary E. Brunkow"
-  pronouns : "She/Her"  
+  avatar: "profile.png"
+  name: "Mary E. Brunkow"
+  pronouns: "She/Her"  
   bio : "2025 Nobel Prize in Physiology or Medicine laureate whose research revolutionized understanding of immune system regulation, uncovering mechanisms that prevent autoimmunity and paving the way for novel therapies for autoimmune diseases."
   employer         : " Chaldea Security Organization"
   uri : "https://med.stanford.edu/brunkow-lab.html" # Lab/academic profile URL
